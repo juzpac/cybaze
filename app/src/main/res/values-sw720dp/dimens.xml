@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--New text size-->
+    <dimen name="h1">56sp</dimen>
+    <dimen name="h2">52sp</dimen>
+    <dimen name="h3">48sp</dimen>
+    <dimen name="h4">44sp</dimen>
+    <dimen name="h5">40sp</dimen>
+    <dimen name="h6">36sp</dimen>
+    <dimen name="h7">32sp</dimen>
+    <dimen name="h8">28sp</dimen>
+    <dimen name="h9">24sp</dimen>
+    <dimen name="h10">20sp</dimen>
+    <dimen name="h11">16sp</dimen>
+    <dimen name="h12">12sp</dimen>
+    <dimen name="h13">8sp</dimen>
+    <dimen name="h14">4sp</dimen>
+</resources>
